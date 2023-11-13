@@ -10,7 +10,8 @@
 ## Test
 Project tested on Java 11, Tomcat 9 and MySql 8 through Workbench
 
-![Screenshot_1](https://github.com/nestserka/project-hibernate-1/assets/78704791/e9124681-7289-4165-9317-c61cfe0146a8)
+![Screenshot_1](https://github.com/nestserka/project-hibernate-1/assets/78704791/78b9b8fd-e58b-4854-a50f-42d2bc669fd5)
+
 
 
 ## Important!
